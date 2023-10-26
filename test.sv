@@ -7,9 +7,9 @@ class Data;
         B inside {[0:4]};
         B < 2;
     }
-    // virtual function referance_calc(A, B, opcode);
+    virtual function referance_calc(A, B, opcode);
         
-    // endfunction //new()
+    endfunction //new()
 endclass //Data:
 
 

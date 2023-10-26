@@ -30,9 +30,6 @@ module FPU (
         .A(A_mul),
         .B(B_mul),
         .clk(clk),
-        .overflow(),
-        .underflow(),
-        .exception(),
         .result(mul_result)
     );
     FloatingDivision FloatingDivision_instance(

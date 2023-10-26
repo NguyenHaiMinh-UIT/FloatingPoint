@@ -7,8 +7,8 @@
 	<buildSpec>
 	</buildSpec>
 	<natures>
-		<nature>com.sigasi.hdt.verilog.ui.verilogNature</nature>
 		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
+		<nature>com.sigasi.hdt.verilog.ui.verilogNature</nature>
 	</natures>
 	<linkedResources>
 	</linkedResources>

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/night/Desktop/HK6/CE409/home_work_3/FPU_io.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/night/Desktop/HK6/CE409/home_work_3/test.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/night/Desktop/HK6/CE409/home_work_3/top_test.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_test

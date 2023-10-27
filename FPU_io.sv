@@ -1,3 +1,4 @@
+`timescale 1ns/1ps
 interface FPU_io(input bit clk);
     logic [31:0] A;
     logic [31:0] B;

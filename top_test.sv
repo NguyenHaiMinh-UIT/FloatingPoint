@@ -1,3 +1,5 @@
+`timescale 1ns/1ps
+
 module top_test();
     bit clk = 0;
     always #1 clk = ~clk;
@@ -11,4 +13,5 @@ module top_test();
         .opcode(fpu_interface.opcode),
         .result(fpu_interface.result)
     );
+
 endmodule

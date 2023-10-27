@@ -1,0 +1,13 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/night/Desktop/HK6/CE409/home_work_3/FPU.v,1698395945,verilog,,C:/Users/night/Desktop/HK6/CE409/home_work_3/FloatingAddition.v,,FPU,,uvm,,,,,,
+C:/Users/night/Desktop/HK6/CE409/home_work_3/FPU_io.sv,1698390582,systemVerilog,,C:/Users/night/Desktop/HK6/CE409/home_work_3/test.sv,,FPU_io,,uvm,,,,,,
+C:/Users/night/Desktop/HK6/CE409/home_work_3/FloatingAddition.v,1698384014,verilog,,C:/Users/night/Desktop/HK6/CE409/home_work_3/FloatingDivision.v,,FloatingAddition;addition_normaliser,,uvm,,,,,,
+C:/Users/night/Desktop/HK6/CE409/home_work_3/FloatingDivision.v,1698411491,verilog,,C:/Users/night/Desktop/HK6/CE409/home_work_3/FloatingMultiplication.v,C:/Users/night/Desktop/HK6/CE409/home_work_3/FloatingMultiplication.v;C:/Users/night/Desktop/HK6/CE409/home_work_3/FloatingAddition.v,FloatingDivision;reciprocal,,uvm,,,,,,
+C:/Users/night/Desktop/HK6/CE409/home_work_3/FloatingMultiplication.v,1698384328,verilog,,C:/Users/night/Desktop/HK6/CE409/home_work_3/demux1to4.v,,FloatingMultiplication;multiplication_normaliser,,uvm,,,,,,
+C:/Users/night/Desktop/HK6/CE409/home_work_3/demux1to4.v,1698291992,verilog,,,,demux1to4,,uvm,,,,,,
+C:/Users/night/Desktop/HK6/CE409/home_work_3/hw3/hw3.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/night/Desktop/HK6/CE409/home_work_3/test.sv,1698412682,systemVerilog,,C:/Users/night/Desktop/HK6/CE409/home_work_3/top_test.sv,,test,,uvm,,,,,,
+C:/Users/night/Desktop/HK6/CE409/home_work_3/top_test.sv,1698408303,systemVerilog,,,,top_test,,uvm,,,,,,

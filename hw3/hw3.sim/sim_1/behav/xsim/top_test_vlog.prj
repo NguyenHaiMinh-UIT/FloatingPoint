@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../FPU.v" \
+"../../../../../FloatingAddition.v" \
+"../../../../../FloatingDivision.v" \
+"../../../../../FloatingMultiplication.v" \
+
+sv xil_defaultlib  \
+"../../../../../FPU_io.sv" \
+"../../../../../test.sv" \
+"../../../../../top_test.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

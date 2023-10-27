@@ -7,7 +7,7 @@ module demux1to4(
     output reg [31:0] out3
 
 );
-    always @(in or sel) begin
+    always @(sel) begin
         case (sel) // @suppress "Default clause missing from case statement"
             2'b00: begin
                 out0 = in;
